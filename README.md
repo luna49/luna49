@@ -9,7 +9,7 @@
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-I'm currently studying Electrical & Computer Engineering at the University of Toronto. I am developing a strong foundation in electrical systems and computer software and hardware. My experience includes programming in several frontend and backend languages such as Python, Javascript, and C/C++. I have worked on several projects including engineering design projects and software hackathons, which have provided me with hands-on experience in developing software and hardware solutions. I am excited to pursue new opportunities and gain further experience in the industry.
+Hello! I'm currently studying Electrical & Computer Engineering at the University of Toronto. I am developing a strong foundation in electrical systems and computer software and hardware, with applied experience including programming in several frontend and backend languages such as Python, Javascript, and C/C++, basic CADing, and robotics. I have worked on several projects including engineering design projects and software hackathons, which have provided me with hands-on experience in developing software and hardware solutions. I am excited to pursue new opportunities and gain further experience in the industry!
 
 
 ## 🌐 Socials:
